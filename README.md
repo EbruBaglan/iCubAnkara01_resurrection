@@ -9,7 +9,7 @@ The diary to register all my steps to revive the icub residing in ROMER @ METU.
         ```bash
         cmake --version
         ```
-  - [YCM documentation](https://robotology.github.io/ycm/gh-pages/latest/manual/ycm-installing.7.html)
+  - [YCM installing](https://robotology.github.io/ycm/gh-pages/latest/manual/ycm-installing.7.html)
   - [Source installation](https://github.com/robotology/robotology-superbuild#source-installation)
   - Turns out it just creates a file to be sourced. Append it to the .bashrc file by hitting:
       ```bash
