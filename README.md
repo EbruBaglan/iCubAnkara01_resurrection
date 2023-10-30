@@ -3,6 +3,8 @@ The diary to register all my steps to revive the icub residing in ROMER @ METU.
 
 ## Day4 (10.30.23):
 - IIT replied my email. It is as follows.
+  ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/438cb177-dae2-4072-9ace-73d315d5079b)
+
 
 
 ## Day3 (10.26.23):
