@@ -1,6 +1,10 @@
 # icub_rebranded
 The diary to register all my steps to revive the icub residing in ROMER @ METU.
 
+## Day4 (10.30.23):
+- IIT replied my email. It is as follows.
+
+
 ## Day3 (10.26.23):
  - Received the laptop yesterday. YARP and all others are set up already, yay!
  - Documentation specifies 1 power supply providing `40V 20A` as seems below ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/8302d2d8-a784-41c6-8980-a83c2881731a)
