@@ -31,8 +31,8 @@ The user's manuel for the power supplies:
 - Started writing the guideline.
 - S/D LED does not turn off and I think this is a problem, as the power supply wont be able to provide power to the system when S/D is on. Decided to make Functional Tests for Power Supply stated in the [xantrex XFR 60-46 User's Manual](http://wiki.icub.eu/images/5/5e/XANTREX_-_Power_supply_2.8Kw_XFR_60_46.pdf), page 43.
   - Functional Tests are
-    - Power-on Check: :heavy_check_mark:
-    - Voltage Mode Operation Check: :heavy_check_mark:
+    - Power-on Check: ✔️
+    - Voltage Mode Operation Check: ❌ Turning the knobs, wont increase the voltage nor amps.
     - Current Mode Operation Check
     - Front Panel Function Checks
 
