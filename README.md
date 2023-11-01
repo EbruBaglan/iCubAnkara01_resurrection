@@ -22,12 +22,19 @@ The power supplies should set to the following values **BEFORE** connecting the 
 - xantrex XFR 60-46:      **40V, 20A**
 
 The user's manuel for the power supplies:
-- [xantrex XFR 60-46 User's Manual](http://wiki.icub.eu/images/5/5e/XANTREX_-_Power_supply_2.8Kw_XFR_60_46.pdf)
 - [xantrex XFR 35-35 User's Manual](http://wiki.icub.org/images/3/36/XANTREX_-_Power_supply_1.2Kw_XFR_35-35.pdf)
+- [xantrex XFR 60-46 User's Manual](http://wiki.icub.eu/images/5/5e/XANTREX_-_Power_supply_2.8Kw_XFR_60_46.pdf)
+
 
 # Diary
 ## Day5 (11.1.23):
-- Started writing the guideline. 
+- Started writing the guideline.
+- S/D LED does not turn off and I think this is a problem, as the power supply wont be able to provide power to the system when S/D is on. Decided to make Functional Tests for Power Supply stated in the [xantrex XFR 60-46 User's Manual](http://wiki.icub.eu/images/5/5e/XANTREX_-_Power_supply_2.8Kw_XFR_60_46.pdf), page 43.
+  - Functional Tests are
+    - Power-on Check
+    - Voltage Mode Operation Check
+    - Current Mode Operation Check
+    - Front Panel Function Checks
 
 ## Day4 (10.30.23):
 - IIT replied my email. It is as follows.
