@@ -3,12 +3,18 @@ The diary to register all my steps to revive the icub residing in ROMER @ METU.
 
 # The HitchHiker's Guideline to the iCub so far
 ## About
-The list of devices:
+**The list of devices**
 - iCub 1.x
 - iCub Laptop: DELL Latitude E4300 (username: icub password: icub)
 - Power Supplies:
   - xantrex XFR 35-35: max 35V 35A
   - xantrex XFR 60-46: max 60V 46A  
+
+The connection of the overall system can be seen below.
+
+| ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/00a7ca81-beb2-42e6-baa5-95e89d9476a9) |
+|:--:|
+| *The connection diagram* |
 
 ## Powering the iCub
 The power supplies should set to the following values **BEFORE** connecting the main cord of iCub.
