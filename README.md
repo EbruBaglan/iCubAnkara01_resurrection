@@ -70,6 +70,8 @@ The user's manuel for the power supplies:
   |:--:|
   | *S/D Function at page 63* |
 
+- Decided to change `Remote shutdown circuit logic` because it is remotely set to S/D ON as I understand.
+
 ## Day4 (10.30.23):
 - IIT replied my email. It is as follows.
 
