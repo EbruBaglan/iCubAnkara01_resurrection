@@ -42,14 +42,17 @@ The user's manuel for the power supplies:
   - Current Mode Operation Check:
   - Front Panel Function Checks: ❌
     **The following won't happen for our power supply. The S/D Led just dont turn off when STANDBY Switch is its OUT position.**
-    | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/e7717978-7aaf-4884-94ee-9172671cd988) |
+
+    | <img src="https://github.com/EbruBaglan/icub_rebranded/assets/71343894/e7717978-7aaf-4884-94ee-9172671cd988" alt="drawing" width="600"/> |
     |:--:|
     | *The front panel check fails because STANDBY Switch does not affect S/D Led* |
 
     **Also, the following(loading the power) is not possible either, so the robot won't get the power.**
-    | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/9b2a65f3-9edf-400c-ab4c-e45994996479) |
+ 
+    | <img src="https://github.com/EbruBaglan/icub_rebranded/assets/71343894/9b2a65f3-9edf-400c-ab4c-e45994996479" alt="drawing" width="600"/> |
     |:--:|
     | *Supplying the power to the robot fails because STANDBY Switch does not affect S/D Led* |
+
 - Due to the above problems, I am checking User Diagnostics.
   | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/69804f5d-2d81-45df-926c-69bee7b70c12) |
   |:--:|
