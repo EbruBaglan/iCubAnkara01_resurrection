@@ -12,9 +12,15 @@ The diary to register all my steps to revive the icub residing in ROMER @ METU.
 
 The connection of the overall system can be seen below.
 
+| <img src="https://github.com/EbruBaglan/icub_rebranded/assets/71343894/00a7ca81-beb2-42e6-baa5-95e89d9476a9" alt="drawing" width="600"/> |
+|:--:|
+| *The connection diagram* |
+
+<!---
 | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/00a7ca81-beb2-42e6-baa5-95e89d9476a9) |
 |:--:|
 | *The connection diagram* |
+-->
 
 ## Powering the iCub
 The power supplies should set to the following values **BEFORE** connecting the main cord of iCub.
@@ -47,8 +53,12 @@ The user's manuel for the power supplies:
 - Due to the above problems, I am checking User Diagnostics.
   | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/69804f5d-2d81-45df-926c-69bee7b70c12) |
   |:--:|
-  | *User Diagnostics at page 72, directing to the page* |
+  | *User Diagnostics at page 72, directing to the page 63* |
   
+- Checking page 63+64 to figure out why S/D won't turn off and how to turn off S/D function.
+  | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/e716defb-d5f2-47a0-82b1-dc956fd49af6) |
+  |:--:|
+  | *User Diagnostics at page 72, directing to the page 63* |
 
 
 
