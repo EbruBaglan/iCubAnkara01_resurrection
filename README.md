@@ -30,21 +30,25 @@ The user's manuel for the power supplies:
 ## Day5 (11.1.23):
 - Started writing the guideline.
 - S/D LED does not turn off and I think this is a problem, as the power supply wont be able to provide power to the system when S/D is on. Decided to make Functional Tests for Power Supply stated in the [xantrex XFR 60-46 User's Manual](http://wiki.icub.eu/images/5/5e/XANTREX_-_Power_supply_2.8Kw_XFR_60_46.pdf), page 43.
-  - Functional Tests are
-    - Power-on Check: ✔️
-    - Voltage Mode Operation Check: ❌ Turning the knobs, wont increase the voltage nor amps.
-    - Current Mode Operation Check:
-    - Front Panel Function Checks: ❌
-      The following won't happen for our power supply. The S/D Led just dont turn off when STANDBY Switch is its OUT position.
-      | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/e7717978-7aaf-4884-94ee-9172671cd988) |
-      |:--:|
-      | *The front panel check fails because STANDBY Switch does not affect S/D Led* |
+  Functional Tests are
+  - Power-on Check: ✔️
+  - Voltage Mode Operation Check: ❌ **Turning the knobs, wont increase the voltage nor amps.**
+  - Current Mode Operation Check:
+  - Front Panel Function Checks: ❌
+    **The following won't happen for our power supply. The S/D Led just dont turn off when STANDBY Switch is its OUT position.**
+    | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/e7717978-7aaf-4884-94ee-9172671cd988) |
+    |:--:|
+    | *The front panel check fails because STANDBY Switch does not affect S/D Led* |
 
-      Also, the following(loading the power) is not possible either, so the robot won't get the power.
-      | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/9b2a65f3-9edf-400c-ab4c-e45994996479) |
-      |:--:|
-      | *Supplying the power to the robot fails because STANDBY Switch does not affect S/D Led* |
-
+    **Also, the following(loading the power) is not possible either, so the robot won't get the power.**
+    | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/9b2a65f3-9edf-400c-ab4c-e45994996479) |
+    |:--:|
+    | *Supplying the power to the robot fails because STANDBY Switch does not affect S/D Led* |
+- Due to the above problems, I am checking User Diagnostics.
+  | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/69804f5d-2d81-45df-926c-69bee7b70c12) |
+  |:--:|
+  | *User Diagnostics at page 72, directing to the page* |
+  
 
 
 
