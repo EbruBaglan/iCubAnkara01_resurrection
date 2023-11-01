@@ -70,7 +70,33 @@ The user's manuel for the power supplies:
   |:--:|
   | *S/D Function at page 63* |
 
-- Decided to change `Remote shutdown circuit logic` because it is remotely set to S/D ON as I understand.
+- Decided to change `Remote shutdown circuit logic` because it is remotely set to S/D ON as I understand. I checked the SW1 switch configuration and realized it has been changed from the factory default. **Factory default** is shown as
+  - SW1-1: UP
+  - SW1-2: UP
+  - SW1-3: DOWN
+  - SW1-4: DOWN
+  - SW1-5: DOWN
+  - SW1-6: DOWN
+  - **SW1-7: UP**
+  - SW1-8: UP
+  - 
+    ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/ad0e20d3-fde8-47d2-8588-2de2e5e0d33a)
+
+- However, it was changed as below in the current settings as seen below.
+  - SW1-1: UP
+  - SW1-2: UP
+  - SW1-3: DOWN
+  - SW1-4: DOWN
+  - SW1-5: DOWN
+  - SW1-6: DOWN
+  - **SW1-7: DOWN**
+  - SW1-8: DOWN
+ 
+    ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/bb2f2a6c-792f-451f-8bcc-eba14902182e)
+
+ 
+
+
 
 ## Day4 (10.30.23):
 - IIT replied my email. It is as follows.
