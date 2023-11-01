@@ -12,9 +12,12 @@ The diary to register all my steps to revive the icub residing in ROMER @ METU.
 
 The connection of the overall system can be seen below.
 
+<div align="center">
+  
 | <img src="https://github.com/EbruBaglan/icub_rebranded/assets/71343894/00a7ca81-beb2-42e6-baa5-95e89d9476a9" alt="drawing" width="600"/> |
 |:--:|
 | *The connection diagram* |
+</div>
 
 <!---
 | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/00a7ca81-beb2-42e6-baa5-95e89d9476a9) |
@@ -42,10 +45,11 @@ The user's manuel for the power supplies:
   - Current Mode Operation Check:
   - Front Panel Function Checks: ❌
     **The following won't happen for our power supply. The S/D Led just dont turn off when STANDBY Switch is its OUT position.**
-
+  
     | <img src="https://github.com/EbruBaglan/icub_rebranded/assets/71343894/e7717978-7aaf-4884-94ee-9172671cd988" alt="drawing" width="600"/> |
     |:--:|
     | *The front panel check fails because STANDBY Switch does not affect S/D Led* |
+
 
     **Also, the following(loading the power) is not possible either, so the robot won't get the power.**
  
