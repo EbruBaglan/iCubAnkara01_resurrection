@@ -1,10 +1,30 @@
 # icub_rebranded
 The diary to register all my steps to revive the icub residing in ROMER @ METU.
 
+# The HitchHiker's Guideline to the iCub so far
+## About
+The list of devices:
+- iCub 1.x
+- iCub Laptop: DELL Latitude E4300 (username: icub password: icub)
+- Power Supplies:
+  - xantrex XFR 35-35: max 35V 35A
+  - xantrex XFR 60-46: max 60V 46A  
+
+## Powering the iCub
+The power supplies should set to the following values **BEFORE** connecting the main cord of iCub.
+- xantrex XFR 35-35: **12-12.5V, 15A**
+- xantrex XFR 60-46:      **40V, 20A**
+
+The user's manuel for the power supplies:
+
+# Diary
+
 ## Day4 (10.30.23):
 - IIT replied my email. It is as follows.
-  ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/438cb177-dae2-4072-9ace-73d315d5079b)
 
+| ![space-1.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/438cb177-dae2-4072-9ace-73d315d5079b) | 
+|:--:| 
+| *The mail from IIT* |
 
 
 ## Day3 (10.26.23):
