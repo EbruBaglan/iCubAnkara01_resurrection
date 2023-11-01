@@ -58,16 +58,17 @@ The user's manuel for the power supplies:
     | *Supplying the power to the robot fails because STANDBY Switch does not affect S/D Led* |
 
 - Due to the above problems, I am checking User Diagnostics.
-  | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/69804f5d-2d81-45df-926c-69bee7b70c12) |
+
+  | <img src="https://github.com/EbruBaglan/icub_rebranded/assets/71343894/69804f5d-2d81-45df-926c-69bee7b70c12" alt="drawing" width="600"/> |
   |:--:|
   | *User Diagnostics at page 72, directing to the page 63* |
-  
+
+
 - Checking page 63+64 to figure out why S/D won't turn off and how to turn off S/D function.
-  | ![image.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/e716defb-d5f2-47a0-82b1-dc956fd49af6) |
+
+  | <img src="https://github.com/EbruBaglan/icub_rebranded/assets/71343894/e716defb-d5f2-47a0-82b1-dc956fd49af6" alt="drawing" width="600"/> |
   |:--:|
-  | *User Diagnostics at page 72, directing to the page 63* |
-
-
+  | *S/D Function at page 63* |
 
 ## Day4 (10.30.23):
 - IIT replied my email. It is as follows.
