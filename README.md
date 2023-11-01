@@ -94,8 +94,12 @@ The user's manuel for the power supplies:
  
     ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/bb2f2a6c-792f-451f-8bcc-eba14902182e)
 
- -  **I changed SW1-7 to ON and S/D Led problem solved!**
-
+-  **I changed SW1-7 to ON and S/D Led problem solved!**
+- Repeating the functional tests:
+  - Power-on Check: ✔️
+  - Voltage Mode Operation Check: ✔️
+  - Current Mode Operation Check: :white_check_mark:
+  - Front Panel Function Checks: ❌ 
 
 
 ## Day4 (10.30.23):
