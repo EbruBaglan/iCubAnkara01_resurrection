@@ -16,8 +16,12 @@ The power supplies should set to the following values **BEFORE** connecting the 
 - xantrex XFR 60-46:      **40V, 20A**
 
 The user's manuel for the power supplies:
+- [xantrex XFR 60-46 User's Manual](http://wiki.icub.eu/images/5/5e/XANTREX_-_Power_supply_2.8Kw_XFR_60_46.pdf)
+- [xantrex XFR 35-35 User's Manual](http://wiki.icub.org/images/3/36/XANTREX_-_Power_supply_1.2Kw_XFR_35-35.pdf)
 
 # Diary
+## Day5 (11.1.23):
+- Started writing the guideline. 
 
 ## Day4 (10.30.23):
 - IIT replied my email. It is as follows.
