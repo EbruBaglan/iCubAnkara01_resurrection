@@ -33,8 +33,11 @@ The user's manuel for the power supplies:
   - Functional Tests are
     - Power-on Check: ✔️
     - Voltage Mode Operation Check: ❌ Turning the knobs, wont increase the voltage nor amps.
-    - Current Mode Operation Check
-    - Front Panel Function Checks
+    - Current Mode Operation Check:
+    - Front Panel Function Checks: ❌
+      The following won't happen for our power supply. The S/D Led just dont turn off when STANDBY Switch is its OUT position.
+      ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/e7717978-7aaf-4884-94ee-9172671cd988)
+
 
 ## Day4 (10.30.23):
 - IIT replied my email. It is as follows.
