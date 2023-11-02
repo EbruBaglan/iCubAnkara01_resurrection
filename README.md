@@ -21,7 +21,7 @@ The connection of the overall system can be seen below.
 
 <div align="center">
   
-| <img src="https://github.com/EbruBaglan/icub_rebranded/assets/71343894/00a7ca81-beb2-42e6-baa5-95e89d9476a9" alt="drawing" width="600"/> |
+| <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/00a7ca81-beb2-42e6-baa5-95e89d9476a9" alt="drawing" width="600"/> |
 |:--:|
 | *The connection diagram* |
 </div>
