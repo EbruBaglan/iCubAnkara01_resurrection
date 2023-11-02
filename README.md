@@ -1,4 +1,4 @@
-# icub_rebranded
+# iCubAnkara_resurrection
 The diary to register all my steps to revive the icub residing in ROMER @ METU.
 
 # The HitchHiker's Guideline to the iCub so far
