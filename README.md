@@ -37,7 +37,7 @@ The user's manuel for the power supplies:
 
 # Diary
 ## Day6 (11.2.23):
-- Writing Guideline.
+- 
 
 - 
 ## Day5 (11.1.23):
