@@ -2,6 +2,13 @@
 The diary to register all my steps to revive the icub residing in ROMER @ METU.
 
 # The HitchHiker's Guideline to the iCub so far
+## Quick Recap
+- iCub at hand is 1.x, whereas the most recent is iCub 3. So, the documentation is not valid anymore for iCub 1.x. GitHub issues should be used for questions to IIT.
+- Power settings are obtained from IIT through an email and is as follows.
+  - xantrex XFR 35-35: **12-12.5V, 15A**
+  - xantrex XFR 60-46:      **40V, 20A**
+- xantrex XFR 60-46 had a trouble providing output, now it is fixed. 
+
 ## About
 **The list of devices**
 - iCub 1.x
