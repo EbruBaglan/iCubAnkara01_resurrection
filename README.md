@@ -44,8 +44,7 @@ The user's manuel for the power supplies:
 
 # Diary
 ## Day6 (11.2.23):
-- 
-
+- Starting a discussion at iCub Tech like [this one](https://github.com/orgs/robotology/discussions/378). iCub's nickname convention is `iCub<City><Num>`, so its name is iCubAnkara01.
 - 
 ## Day5 (11.1.23):
 - Started writing the guideline.
