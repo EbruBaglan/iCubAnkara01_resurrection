@@ -1,13 +1,14 @@
-# iCubAnkara_resurrection
-The diary to register all my steps to revive the icub residing in ROMER @ METU.
+# iCubAnkara01_resurrection
+The diary to register all my steps to give a second chance in life to the iCub residing in ROMER @ METU, Ankara.
 
 # The HitchHiker's Guideline to the iCub so far
 ## Quick Recap
-- iCub at hand is 1.x, whereas the most recent is iCub 3. So, the documentation is not valid anymore for iCub 1.x. GitHub issues should be used for questions to IIT.
+- iCub at hand is 1.x, whereas the most recent is iCub 3. So, [the documentation](https://icub-tech-iit.github.io/documentation/icub_starter_kits/first_steps/) is not valid anymore for iCub 1.x. GitHub issues should be used for questions to IIT.
 - Power settings are obtained from IIT through an email and is as follows.
   - xantrex XFR 35-35: **12-12.5V, 15A**
   - xantrex XFR 60-46:      **40V, 20A**
-- xantrex XFR 60-46 had a trouble providing output, now it is fixed. 
+- xantrex XFR 60-46 had a trouble providing output, now it is fixed.
+- Powering the motors causes S/D of power supply. This is the latest issue that I'm dealing with.
 
 ## About
 **The list of devices**
@@ -45,7 +46,7 @@ The user's manuel for the power supplies:
 # Diary
 ## Day6 (11.2.23):
 - Starting a discussion at iCub Tech like [this one](https://github.com/orgs/robotology/discussions/378). iCub's nickname convention is `iCub<City><Num>`, so its nickname is iCubAnkara01.
-- Started an issue [here](https://github.com/robotology/icub-tech-support/issues/1671) for the motors turning on causas shutting down of the power supply. Waiting for the reply :crossed_fingers:
+- Started an issue [here](https://github.com/robotology/icub-tech-support/issues/1671) for the motors turning on causes shutting down of the power supply. Waiting for the reply :crossed_fingers:
 ## Day5 (11.1.23):
 - Started writing the guideline.
 - S/D LED does not turn off and I think this is a problem, as the power supply wont be able to provide power to the system when S/D is on. Decided to make Functional Tests for Power Supply stated in the [xantrex XFR 60-46 User's Manual](http://wiki.icub.eu/images/5/5e/XANTREX_-_Power_supply_2.8Kw_XFR_60_46.pdf), page 43.
@@ -79,7 +80,7 @@ The user's manuel for the power supplies:
   |:--:|
   | *S/D Function at page 63* |
 
-- Decided to change `Remote shutdown circuit logic` because it is remotely set to S/D ON as I understand(even if nothing is connected and nothing causes S/D ON). I checked the SW1 switch configuration and realized it has been changed from the factory default. **Factory default** is shown as
+- Decided to change `Remote shutdown circuit logic` because it is remotely set to S/D ON as I understand(even if nothing is connected and nothing causes S/D ON). I checked the SW1 switch configuration and realized it has been changed from the factory default. **Factory default** and other states for switches are as follows.
 
   | SWITCH #  | FACTORY DEFAULT  | PREVIOUS  | NOW|
   |---|---|---|---|
@@ -118,7 +119,7 @@ The user's manuel for the power supplies:
    |:--:|
    | *The power supplies at hand* |
  
- - Time for guidance from IIT Tech!
+ - Time for guidance from iCub Tech!
 
 
 ## Day2 (10.25.23):
@@ -149,7 +150,6 @@ The user's manuel for the power supplies:
 Resistance is futile, I need a laptop with Ubuntu 22-.
 
 ## Day1 (10.23.23):
-- Cables checked, no cable lost. Though the connection scheme is different, no 3 different cables, just single one
-- Cables and power sources cleaned.
-- Power sources are put on table thanks to Harika hanim and umut and mehmet?
-- 
+- Cables checked, no cable lost. Though the connection scheme is different than the one in [the documentation](https://icub-tech-iit.github.io/documentation/icub_starter_kits/first_steps/). The docs show 3 different cables(power+eth+fault) exiting iCub, but the iCub here has a single output.
+- Cables and power sources are cleaned.
+- Power sources are put on table thanks to Harika Hanim and Umut and Mehmet.
