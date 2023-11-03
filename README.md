@@ -20,8 +20,8 @@ The diary to register all my steps to revive the icub residing in ROMER @ METU.
 The connection of the overall system can be seen below.
 
 <div align="center">
-  
-| <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/00a7ca81-beb2-42e6-baa5-95e89d9476a9" alt="drawing" width="600"/> |
+
+| <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/6f8cf266-9de2-4d7e-b8c4-39350d4dd8c9" alt="drawing" width="600"/> |
 |:--:|
 | *The connection diagram* |
 </div>
@@ -44,7 +44,7 @@ The user's manuel for the power supplies:
 
 # Diary
 ## Day6 (11.2.23):
-- Starting a discussion at iCub Tech like [this one](https://github.com/orgs/robotology/discussions/378). iCub's nickname convention is `iCub<City><Num>`, so its name is iCubAnkara01.
+- Starting a discussion at iCub Tech like [this one](https://github.com/orgs/robotology/discussions/378). iCub's nickname convention is `iCub<City><Num>`, so its nickname is iCubAnkara01.
 - 
 ## Day5 (11.1.23):
 - Started writing the guideline.
@@ -55,15 +55,14 @@ The user's manuel for the power supplies:
   - Current Mode Operation Check:
   - Front Panel Function Checks: ❌
     **The following won't happen for our power supply. The S/D Led just dont turn off when STANDBY Switch is its OUT position.**
-  
-    | <img src="https://github.com/EbruBaglan/icub_rebranded/assets/71343894/e7717978-7aaf-4884-94ee-9172671cd988" alt="drawing" width="600"/> |
+
+    | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/7a12c322-7b4d-43e9-ae9c-5bcd7ab497e6" alt="drawing" width="600"/> |
     |:--:|
     | *The front panel check fails because STANDBY Switch does not affect S/D Led* |
 
-
     **Also, the following(loading the power) is not possible either, so the robot won't get the power.**
  
-    | <img src="https://github.com/EbruBaglan/icub_rebranded/assets/71343894/9b2a65f3-9edf-400c-ab4c-e45994996479" alt="drawing" width="600"/> |
+    | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/c5f1e8d2-39b7-4e03-afd3-d7e532b105cb" alt="drawing" width="600"/> |
     |:--:|
     | *Supplying the power to the robot fails because STANDBY Switch does not affect S/D Led* |
 
@@ -74,13 +73,13 @@ The user's manuel for the power supplies:
   | *User Diagnostics at page 72, directing to the page 63* |
 
 
-- Checking page 63+64 to figure out why S/D won't turn off and how to turn off S/D function.
+- Checking page 63+64 to figure out why S/D won't turn off and how to turn off wrongly-set S/D function.
 
-  | <img src="https://github.com/EbruBaglan/icub_rebranded/assets/71343894/e716defb-d5f2-47a0-82b1-dc956fd49af6" alt="drawing" width="600"/> |
+  | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/259a6b59-a970-4c43-9f41-036a8bd57f31" alt="drawing" width="600"/> |
   |:--:|
   | *S/D Function at page 63* |
 
-- Decided to change `Remote shutdown circuit logic` because it is remotely set to S/D ON as I understand. I checked the SW1 switch configuration and realized it has been changed from the factory default. **Factory default** is shown as
+- Decided to change `Remote shutdown circuit logic` because it is remotely set to S/D ON as I understand(even if nothing is connected and nothing causes S/D ON). I checked the SW1 switch configuration and realized it has been changed from the factory default. **Factory default** is shown as
 
   | SWITCH #  | FACTORY DEFAULT  | PREVIOUS  | NOW|
   |---|---|---|---|
@@ -95,7 +94,7 @@ The user's manuel for the power supplies:
 
 | FACTORY DEFAULT  | PREVIOUS  |
   |---|---|
-  | ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/ad0e20d3-fde8-47d2-8588-2de2e5e0d33a)  | ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/bb2f2a6c-792f-451f-8bcc-eba14902182e) |
+  | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/9b6a76ce-16a7-4391-b6d0-cb29b7f8b4bb" alt="drawing" width="600"/>  | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/9b38e66d-aa39-4e37-99f9-0dd6174fb68b" alt="drawing" width="600"/> |
 
 -  **I changed SW1-7 to ON and S/D Led problem solved!**
 - Repeating the functional tests:
@@ -107,16 +106,20 @@ The user's manuel for the power supplies:
 ## Day4 (10.30.23):
 - IIT replied my email. It is as follows.
 
-| ![space-1.jpg](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/438cb177-dae2-4072-9ace-73d315d5079b) | 
+| ![space-1.jpg](https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/0aca9306-3294-4edf-a998-c36d1db4cfcc) | 
 |:--:| 
 | *The mail from IIT* |
 
-
 ## Day3 (10.26.23):
- - Received the laptop yesterday. YARP and all others are set up already, yay!
+ - Turns out they had iCub Laptop! Received the laptop yesterday. YARP and all others are set up already, yay!
  - Documentation specifies 1 power supply providing `40V 20A` as seems below ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/8302d2d8-a784-41c6-8980-a83c2881731a)
- - But there are 2 power supplies with one of them providing max of `35V` which is `<40V` ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/4852d25e-4601-448f-ba7b-acc4f4a5ae90)
+ - But there are 2 power supplies with one of them providing max of `35V` which is `< 40V`
+   | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/f0742837-c699-47cd-87b6-7382622a8bd6" alt="drawing" width="400"/> |
+   |:--:|
+   | *The power supplies at hand* |
+ 
  - Time for guidance from IIT Tech!
+
 
 ## Day2 (10.25.23):
 - Checking [installation page](https://icub-tech-iit.github.io/documentation/sw_installation/)
