@@ -4,7 +4,7 @@ The diary to register all my steps to give a second chance in life to the iCub r
 # The HitchHiker's Guideline to the iCub so far
 ## Quick Recap
 - iCub at hand is 1.x, whereas the most recent is iCub 3. So, [the documentation](https://icub-tech-iit.github.io/documentation/icub_starter_kits/first_steps/) is not valid anymore for iCub 1.x. GitHub issues should be used for questions to IIT.
-- Power settings are obtained from IIT through an email and is as follows.
+- Power settings are obtained from IIT through [an email](#day4) and is as follows.
   - xantrex XFR 35-35: **12-12.5V, 15A**
   - xantrex XFR 60-46:      **40V, 20A**
 - xantrex XFR 60-46 had a trouble providing output, now it is fixed.
@@ -44,10 +44,11 @@ The user's manuel for the power supplies:
 
 
 # Diary
-## Day6 (11.2.23):
+## Day6 (11.2.23)
 - Starting a discussion at iCub Tech like [this one](https://github.com/orgs/robotology/discussions/378). iCub's nickname convention is `iCub<City><Num>`, so its nickname is iCubAnkara01.
 - Started an issue [here](https://github.com/robotology/icub-tech-support/issues/1671) for the motors turning on causes shutting down of the power supply. Waiting for the reply :crossed_fingers:
-## Day5 (11.1.23):
+- 11.2.23
+## Day5
 - Started writing the guideline.
 - S/D LED does not turn off and I think this is a problem, as the power supply wont be able to provide power to the system when S/D is on. Decided to make Functional Tests for Power Supply stated in the [xantrex XFR 60-46 User's Manual](http://wiki.icub.eu/images/5/5e/XANTREX_-_Power_supply_2.8Kw_XFR_60_46.pdf), page 43.
   Functional Tests are
@@ -102,27 +103,28 @@ The user's manuel for the power supplies:
   - Power-on Check: ✔️
   - Voltage Mode Operation Check: ✔️
   - Current Mode Operation Check: :white_check_mark:
-  - Front Panel Function Checks: ❌ 
+  - Front Panel Function Checks: ❌
+-  11.1.23
 
-## Day4 (10.30.23):
+## Day4
 - IIT replied my email. It is as follows.
 
 | ![space-1.jpg](https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/0aca9306-3294-4edf-a998-c36d1db4cfcc) | 
 |:--:| 
 | *The mail from IIT* |
+- 10.30.23
 
-## Day3 (10.26.23):
- - Turns out they had iCub Laptop! Received the laptop yesterday. YARP and all others are set up already, yay!
- - Documentation specifies 1 power supply providing `40V 20A` as seems below ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/8302d2d8-a784-41c6-8980-a83c2881731a)
- - But there are 2 power supplies with one of them providing max of `35V` which is `< 40V`
-   | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/f0742837-c699-47cd-87b6-7382622a8bd6" alt="drawing" width="400"/> |
-   |:--:|
-   | *The power supplies at hand* |
+## Day3
+- Turns out they had iCub Laptop! Received the laptop yesterday. YARP and all others are set up already, yay!
+- Documentation specifies 1 power supply providing `40V 20A` as seems below ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/8302d2d8-a784-41c6-8980-a83c2881731a)
+- But there are 2 power supplies with one of them providing max of `35V` which is `< 40V`
+  | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/f0742837-c699-47cd-87b6-7382622a8bd6" alt="drawing" width="400"/> |
+  |:--:|
+  | *The power supplies at hand* |
  
- - Time for guidance from iCub Tech!
-
-
-## Day2 (10.25.23):
+- Time for guidance from iCub Tech!
+- 10.26.23
+## Day2
 - Checking [installation page](https://icub-tech-iit.github.io/documentation/sw_installation/)
 - Turns out need to install [robotology-superbuild](https://github.com/robotology/robotology-superbuild)
   - Turns out I need to install [Cmake](https://cmake.org/download/) and [YCM](https://github.com/robotology/ycm) first. Check if you have cmake installed:
@@ -148,8 +150,10 @@ The user's manuel for the power supplies:
       ...
       ```
 Resistance is futile, I need a laptop with Ubuntu 22-.
-
-## Day1 (10.23.23):
+- 10.25.23
+## Day1
 - Cables checked, no cable lost. Though the connection scheme is different than the one in [the documentation](https://icub-tech-iit.github.io/documentation/icub_starter_kits/first_steps/). The docs show 3 different cables(power+eth+fault) exiting iCub, but the iCub here has a single output.
 - Cables and power sources are cleaned.
 - Power sources are put on table thanks to Harika Hanim and Umut and Mehmet.
+- 10.23.23
+## trial
