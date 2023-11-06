@@ -116,7 +116,11 @@ The user's manuel for the power supplies:
 
 ## Day3
 - Turns out they had iCub Laptop! Received the laptop yesterday. YARP and all others are set up already, yay!
-- Documentation specifies 1 power supply providing `40V 20A` as seems below ![image](https://github.com/EbruBaglan/icub_rebranded/assets/71343894/8302d2d8-a784-41c6-8980-a83c2881731a)
+- Documentation specifies 1 power supply providing `40V 20A` as seems below
+  | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/cd9aa4f9-11f5-45ae-b45f-425cee191ec5" alt="drawing" width="600"/> |
+  |:--:|
+  | *The power specs in docs* |
+
 - But there are 2 power supplies with one of them providing max of `35V` which is `< 40V`
   | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/f0742837-c699-47cd-87b6-7382622a8bd6" alt="drawing" width="400"/> |
   |:--:|
