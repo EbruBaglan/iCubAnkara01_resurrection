@@ -43,7 +43,7 @@ The user's manuel for the power supplies:
 - [xantrex XFR 60-46 User's Manual](http://wiki.icub.eu/images/5/5e/XANTREX_-_Power_supply_2.8Kw_XFR_60_46.pdf)
 
 
-# Diary
+# Log
 ## Day6 (11.2.23)
 - Starting a discussion at iCub Tech like [this one](https://github.com/orgs/robotology/discussions/378). iCub's nickname convention is `iCub<City><Num>`, so its nickname is iCubAnkara01.
 - Started an issue [here](https://github.com/robotology/icub-tech-support/issues/1671) for the motors turning on causes shutting down of the power supply. Waiting for the reply :crossed_fingers:
