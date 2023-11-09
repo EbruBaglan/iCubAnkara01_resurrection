@@ -44,7 +44,10 @@ The user's manuel for the power supplies:
 
 
 # Log
-## Day6 (11.2.23)
+## Day7
+- Put QR codes of the last links for log and the issue. Waiting for an answer😿
+
+## Day6
 - Starting a discussion at iCub Tech like [this one](https://github.com/orgs/robotology/discussions/378). iCub's nickname convention is `iCub<City><Num>`, so its nickname is iCubAnkara01.
 - Started an issue [here](https://github.com/robotology/icub-tech-support/issues/1671) for the motors turning on causes shutting down of the power supply. Waiting for the reply :crossed_fingers:
 - 11.2.23
