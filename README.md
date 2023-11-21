@@ -44,6 +44,9 @@ The user's manuel for the power supplies:
 
 
 # Log
+## Day8
+
+
 ## Day7
 - Put QR codes of the last links for log and the issue. Waiting for an answer😿
 
