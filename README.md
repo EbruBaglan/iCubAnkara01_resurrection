@@ -44,13 +44,15 @@ The user's manuel for the power supplies:
 
 Here is the video of how to set OVP values:
 
-
-
-
 | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xOZpz2rBuVQ/0.jpg)](https://www.youtube.com/watch?v=xOZpz2rBuVQ) |
 |:--:|
 | *Reviving the iCub - Step2.1: Setting Power Supplies* |
 
+Here is the video of the issue:
+
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/d_11lxKhAT4/0.jpg)](https://www.youtube.com/watch?v=d_11lxKhAT4) |
+|:--:|
+| *Reviving the iCub - Step2.2: Powering the Robot* |
 
 # Log
 ## Day8
