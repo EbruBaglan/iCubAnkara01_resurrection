@@ -42,10 +42,19 @@ The user's manuel for the power supplies:
 - [xantrex XFR 35-35 User's Manual](http://wiki.icub.org/images/3/36/XANTREX_-_Power_supply_1.2Kw_XFR_35-35.pdf)
 - [xantrex XFR 60-46 User's Manual](http://wiki.icub.eu/images/5/5e/XANTREX_-_Power_supply_2.8Kw_XFR_60_46.pdf)
 
+Here is the video of how to set OVP values:
+
+
+
+
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xOZpz2rBuVQ/0.jpg)](https://www.youtube.com/watch?v=xOZpz2rBuVQ) |
+|:--:|
+| *Reviving the iCub - Step2.1: Setting Power Supplies* |
+
 
 # Log
 ## Day8
-
+- Uploading the video to show the powering issue. Since the OVP does not turn on before S/D, maybe the issue is related to the power supply? It would be much better.
 
 ## Day7
 - Put QR codes of the last links for log and the issue. Waiting for an answer😿
