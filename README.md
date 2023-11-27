@@ -8,7 +8,7 @@ The diary to register all my steps to give a second chance in life to the iCub r
   - xantrex XFR 35-35: **12-12.5V, 15A**
   - xantrex XFR 60-46:      **40V, 20A**
 - xantrex XFR 60-46 had a trouble providing output, now it is fixed.
-- Powering the motors causes S/D of power supply. This is the latest issue that I'm dealing with.
+- Powering the motors causes S/D of power supply. This is the latest issue that I'm dealing with. ICubTech came to rescue [here](https://github.com/robotology/icub-tech-support/issues/1671).
 
 ## About
 **The list of devices**
