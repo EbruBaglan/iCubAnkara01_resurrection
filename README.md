@@ -115,9 +115,9 @@ Here is the video of the issue:
   | SW1-7  | **UP**  | **DOWN**  | **UP**  |
   | SW1-8  |  DOWN | DOWN  | DOWN  |
 
-| FACTORY DEFAULT  | PREVIOUS  |
-  |---|---|
-  | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/9b6a76ce-16a7-4391-b6d0-cb29b7f8b4bb" alt="drawing" width="600"/>  | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/9b38e66d-aa39-4e37-99f9-0dd6174fb68b" alt="drawing" width="600"/> |
+| FACTORY DEFAULT  | PREVIOUS  | NOW |
+  |---|---|---|
+  | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/9b6a76ce-16a7-4391-b6d0-cb29b7f8b4bb" alt="drawing" width="500"/>  | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/9b38e66d-aa39-4e37-99f9-0dd6174fb68b" alt="drawing" width="600"/> | <img src="https://github.com/EbruBaglan/iCubAnkara01_resurrection/assets/71343894/11909f5b-dca3-4afa-bcfd-300c50d8e5ee" alt="drawing" width="500"/>|
 
 -  **I changed SW1-7 to ON and S/D Led problem solved!**
 - Repeating the functional tests:
