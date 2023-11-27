@@ -55,11 +55,15 @@ Here is the video of the issue:
 | *Reviving the iCub - Step2.2: Powering the Robot* |
 
 # Log
+## Day9
+- Replied on the [issue](https://github.com/robotology/icub-tech-support/issues/1671). Let's hope for the best!🤞
+  
 ## Day8
 - Uploading the video to show the powering issue. Since the OVP does not turn on before S/D, maybe the issue is related to the power supply? It would be much better.
+- 11.17.23
 
 ## Day7
-- Put QR codes of the last links for log and the issue. Waiting for an answer😿
+- Put QR codes of the last links for log and the issue😿
 
 ## Day6
 - Starting a discussion at iCub Tech like [this one](https://github.com/orgs/robotology/discussions/378). iCub's nickname convention is `iCub<City><Num>`, so its nickname is iCubAnkara01.
