@@ -55,6 +55,11 @@ Here is the video of the issue:
 | *Reviving the iCub - Step2.2: Powering the Robot* |
 
 # Log
+## Day10
+- PS trouble solved! Movıng on to yarp and related stuff.
+- Started writing a user's manual.
+- 01.29.24
+  
 ## Day9
 - Replied on the [issue](https://github.com/robotology/icub-tech-support/issues/1671). Let's hope for the best!🤞
   
